@@ -11,7 +11,7 @@ Images should also be placed here.
 
 There can be lists like these:
 
-* https://github.com/davidweisscode
+* https://github.com/
 * Another point
 * Yet another point
 

@@ -9,7 +9,7 @@ This is the About Text, giving more information about the owner of this website.
 
 There can be lists like these:
 
-* https://github.com/davidweisscode
+* https://github.com/
 * Another point
 * Yet another point
 

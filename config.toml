@@ -15,30 +15,30 @@ name = "Email"
 icon = "mail"
 url = "mailto:davidweisspost@gmail.com"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/davidweisslink/"
-
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/davidweisscode"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/davidweissnews/"
-
-[[params.social]]
-name = "Facebook"
-icon = "facebook"
-url = "https://www.facebook.com/davidweissbook"
-
-[[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://www.instagram.com/davidweisspics/"
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "linkedin"
+# url = "https://www.linkedin.com/in/davidweisslink/"
+# 
+# [[params.social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/davidweisscode"
+# 
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://twitter.com/davidweissnews/"
+# 
+# [[params.social]]
+# name = "Facebook"
+# icon = "facebook"
+# url = "https://www.facebook.com/davidweissbook"
+# 
+# [[params.social]]
+# name = "Instagram"
+# icon = "instagram"
+# url = "https://www.instagram.com/davidweisspics/"
 
 # Main menu Items
 

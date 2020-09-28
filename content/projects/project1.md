@@ -7,7 +7,7 @@ This is the First Project Text, giving more information about the project. There
 
 There can be lists like these:
 
-* https://github.com/davidweisscode
+* https://github.com/
 * Another point
 * Yet another point
 
