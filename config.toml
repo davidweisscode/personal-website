@@ -1,6 +1,6 @@
 baseURL = "https://davidweisscode.github.io/"
 languageCode = "en-us"
-title = "My site title"
+title = "David Weiß"
 copyright = "© David Weiß"
 
 [params]
@@ -9,6 +9,16 @@ copyright = "© David Weiß"
 	subtitle = "My subtitle with a [link](https://github.com/davidweisscode)"
 
 # Social Tags
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:davidweisspost@gmail.com"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/davidweisslink/"
 
 [[params.social]]
 name = "GitHub"
@@ -21,9 +31,14 @@ icon = "twitter"
 url = "https://twitter.com/davidweissnews/"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/davidweisslink/"
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/davidweissbook"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/davidweisspics/"
 
 # Main menu Items
 

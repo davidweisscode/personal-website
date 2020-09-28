@@ -1,9 +1,7 @@
 {{ define "main" }}
 <main>
 	<article>
-		<h1 class="title">{{ .Title }}</h1>
-
-		<p>This is a single, regular page.</p>
+		<h2 class="title">{{ .Title }}</h2>
 
 		{{ if isset .Params "tldr" }}
 		<div class="tldr">
