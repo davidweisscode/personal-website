@@ -4,7 +4,7 @@ title = "David Weiß"
 copyright = "© David Weiß"
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
+	mode="dark" # color-mode → light, dark or auto
 	featherIconsCDN=true
 	subtitle = "My subtitle with a [link](https://github.com/davidweisscode)"
 
