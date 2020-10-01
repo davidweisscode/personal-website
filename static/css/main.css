@@ -105,62 +105,26 @@ svg {
 }
 /* Landscape layout */
 @media (min-width: 40rem) {
+  .content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40rem;
+  }
   .intro {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    max-width: 100%;
     margin-top: 3rem;
-    padding: 0 5rem;
+    margin-bottom: 3rem;
   }
-
   .intro img {
     display: block;
-    max-width: 16rem;
+    max-width: 17rem;
   }
-
   .intro div {
-    margin-left: 2.25rem;
-    max-width: 20rem;
+    margin-left: 2rem;
+    max-width: 21rem;
     flex-shrink: 0;
-  }
-
-  .intro div h1 {
-    margin-top: 0;
-  }
-
-  .book-cover {
-    float: right;
-    margin: 0 0 1rem 1rem;
-  }
-
-  .in-list .book-cover {
-    max-height: 8.25rem;
-    max-width: 8.25rem;
-    display: block;
-  }
-
-  img.about-me {
-    display: block;
-    width: 18rem;
-    height: 18rem;
-    float: right;
-    margin: -10rem -6rem 5rem 5rem;
-    border-radius: 50%;
-    shape-outside: circle(-9rem);
-  }
-  .network-icons img {
-    display: inline-block;
-    margin-right: 10px;
-    margin-top: 10px;
-    max-width: 25px;
-    opacity: 1;
-    transition: opacity 0.5s;
-    -webkit-transition: opacity .5s;
-    -moz-transition: opacity .5s;
-    /*https://stackoverflow.com/questions/24933430/img-src-svg-changing-the-fill-color*/
-    /*fill: orange;
-    color: #ff0000 !important;*/
   }
 }
