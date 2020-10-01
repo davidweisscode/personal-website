@@ -1,10 +1,10 @@
 baseURL = "https://davidweisscode.github.io/"
 languageCode = "en-us"
 title = "David Weiß"
-copyright = "© David Weiß"
+copyright = "David Weiß"
 
 [params]
-	mode="dark" # color-mode → light, dark or auto
+	mode="auto" # color-mode → light, dark or auto
 	featherIconsCDN=true
 	subtitle = "My subtitle with a [link](https://github.com/davidweisscode)"
 
@@ -42,10 +42,10 @@ url = "mailto:davidweisspost@gmail.com"
 
 # Main menu Items
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
 [[menu.main]]
 name = "About"
