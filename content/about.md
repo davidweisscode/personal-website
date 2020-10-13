@@ -5,7 +5,7 @@ aliases = ["about-us","contact"]
 author = "David"
 +++
 
-Dealing with various kinds of complexity is one of my key duties as an Industrial Engineer. Reducing it often has the highest return on investment. That is why I usually strive to find clean, simple, and sustainable solutions to problems and to life in general.
+Dealing with complexity is one of my key duties as an Industrial Engineer. Reducing it often has the highest return on investment. That is why I usually strive to find clean, simple, and sustainable solutions to problems and to life in general.
 
 **I’m a curious student of life.** If I’m not improving my skills or knowledge of the world on a regular basis I get bored. When I don’t understand, I ask why, and set out to find an answer.
 
