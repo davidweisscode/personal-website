@@ -1,11 +1,15 @@
 +++
 title = "Now"
-description = "This is the Now page description"
+description = "What I'm focused on at this point of my life"
 author = "David"
 +++
 
-This is a short Now Text, giving more information about what the owner of this website is currently doing. There can be links in the text, like this [Example Link](https://github.com/davidweisscode) or others.
+Currently, I'm **interviewing for entry-level positions** in the field of Data Science and Data Engineering. I still live close to Karlsruhe, Baden-Württemberg, though considering moving to other great cities.
 
-And more information.
+I’m healthy and happy, despite the COVID-19 situation. The last month has been spent mostly at home. But I’m grateful to have chosen a path where I’m only **dependent on a computer, an internet connection, and a (possibly remote) team of colleagues**.
 
-This is a very long sentence with very important information. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Germany in general has done well during these times though, and life is starting to get back to normal... for now. However, I would be more than happy to **spend a few years abroad** in the near future.
+
+The last few days I worked on **updating this website**. My main goal was to enable clean navigation and build a compact, yet beautiful design to mirror my working style and to present about myself. I also made some layout changes to support mobile devices and implemented dark mode.
+
+**I enjoy my freetime** by playing tennis outdoors for as long as autumn allows and study Beethoven piano sonatas or Chopin waltzes.

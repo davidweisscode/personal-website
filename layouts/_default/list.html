@@ -1,6 +1,8 @@
 {{ define "main" }}
 <h2>Projects</h2>
 
+<p>+++ This page is under construction. +++</p>
+
 <ul>
     {{- range .Data.Pages -}}
         {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
