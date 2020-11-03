@@ -32,4 +32,4 @@ And here is even more text. And more information.
 
 Images should also be placed here.
 
-![image info](/img/wave.png "This is a nice image title.")
+![This is an image alt](/img/wave.png "This is an image title.")
