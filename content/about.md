@@ -5,7 +5,7 @@ aliases = ["about-us","contact"]
 author = "David"
 +++
 
-Dealing with complexity is one of my key duties as an Industrial Engineer. Reducing it often has the highest return on investment. That is why I strive to find clean, simple, and sustainable solutions to challenges and to life in general.
+**Dealing with complexity** is one of my key duties as an Industrial Engineer. Reducing it often has the highest return on investment. That is why I strive to find clean, simple, and sustainable solutions to challenges and to life in general.
 
 **I’m a curious student of life.** If I’m not improving my skills or knowledge of the world on a regular basis, I get bored. When I don’t understand, I ask why, and set out to find an answer.
 
@@ -26,20 +26,18 @@ Dealing with complexity is one of my key duties as an Industrial Engineer. Reduc
 
 **2010:** I wrote my first lines of code at my school's computer science work group.
 
-**2012:** Finishing school and starting university, I met lots of cool people and was part of a very cooperative body of students. Within my first year at Karlsruhe Institute of Technology, I attended two courses about programming in Java.
+**2012:** Finishing school and starting university. Within my first year at Karlsruhe Institute of Technology, I attended two courses about programming in Java.
 
-**2014:** During my internship at EclipseSource, I ventured further into the world of software development. I got into JavaScript and learned about cross-platform mobile apps, while practicing my skills at the command line, version control, and test-driven development.
+**2014:** For my first internship I decided to work within the industry of software development. At EclipseSource, I got into JavaScript and learned about cross-platform mobile apps, while practicing my skills at the command line, version control, and test-driven development.
 
 **2015:** My second internship at Bosch allowed me to experience a more business oriented side of my study programme. I quickly took over responsibility in a ratio project and sharpened communication and project management skills.
 
-**2016:** Following the internship, I got into the joint research project of "ParKing" between KIT and Bosch on crowdsourcing data about on-street parking areas. As a front-end mobile developer and UX designer, I was part of a Scrum team working remotely and with agile methods.
+**2016:** Following the internship, I got into the joint research project of "ParKing" between KIT and Bosch on crowdsourcing data about on-street parking areas. As a front-end mobile developer and UX designer, I was part of a remote Scrum team working with agile methods.
 
-**2017:** Realize to venture further for Data Science due to Service Analytics.
+**2017:** During the excellent class about "Service Analytics" hosted by KSRI@KIT I realized that I'd like to venture further into the world of Data Science.
 
-**2018:** My personal highlight, working abroad in Singapore.
+**2018:** This one is my personal highlight: I had the great opportunity to live and work in Singapore for seven months. At Bosch Siemens Home Appliances I was part of an awesome, intercultural, and interdisciplinary team working in the field of IoT and digital transformation. I could expand my understanding of south-east asian culture and generally about living in a vast foreign metropolis. I made lots of new friends by joining a local dragon boat club and pushed myself to new limits by paddling and working out.
 
-**2019:** Recommender Systems teaching assistant
+**2019:** As a teaching assistant for KIT's chair of electronic markets I was responsible for the Recommender Systems exercise class. I taught several machine learning algorithms, such as clustering, decision trees, and rule mining, for a class of about 80 master students.
 
-**2019:** Data is the new oil. Value by analyzing, but more insights by linking data. Realize to focus more on networks and linked data.
-
-**2020:** Finishing my master's with a thesis about Knowledge Graphs and linked data analysis.
+**2020:** Data is the new oil running our world. However, as raw oil needs refinement, so does data. By carefully analyzing and linking data we can ultimately extract knowledge. That is why I finished my master's with a thesis about Knowledge Graphs and linked data quality.
